@@ -1,0 +1,10 @@
+server:
+  port: 8081
+
+jwt:
+ # 发行者
+ name: Hilox
+ # 密钥, 经过Base64加密, 自行替换
+ base64Secret: SGlsb3g=
+ #jwt中过期时间设置(分)
+ jwtExpires: 120
