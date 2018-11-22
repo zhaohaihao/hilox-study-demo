@@ -21,7 +21,6 @@ public class MyWebConfigurer extends WebMvcConfigurerAdapter {
     // 自定义过滤规则
     @Override
     public void addInterceptors(InterceptorRegistry registry) {
-        registry.addInterceptor(jwtInterceptor()).addPathPatterns("/**")
-                .excludePathPatterns("/login");
+        registry.addInterceptor(jwtInterceptor()).addPathPatterns("/**");
     }
 }
