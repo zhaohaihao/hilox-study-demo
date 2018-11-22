@@ -18,8 +18,8 @@ public class AliSmsSDKTest {
         String code;
         try {
             code = aliSmsBuilder.setPhoneNum("150****8879")    // 替换成自己的手机号
-                    .setSignName("测试签名")  // 替换成自己的阿里云短信服务签名
-                    .setTemplateCode("SMS_150******") // 替换成自己的阿里云短信模板编号
+                    .setSignName("阿里云短信测试专用")  // 替换成自己的阿里云短信服务签名
+                    .setTemplateCode("SMS_108565014") // 替换成自己的阿里云短信模板编号
                     .setVerifyCode("8859") // 替换成自己随机生成的验证码
                     .send();
         } catch (ClientException e) {
