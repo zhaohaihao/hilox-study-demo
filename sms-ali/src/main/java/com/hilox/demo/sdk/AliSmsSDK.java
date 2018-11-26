@@ -93,7 +93,7 @@ public class AliSmsSDK {
         SendSmsResponse sendSmsResponse = acsClient.getAcsResponse(request);
         String code = sendSmsResponse.getCode();
 
-        log.info("==== 发送短信验证码成功, 返回code: " + code + " =====");
+        log.info("==== 发送短信验证码成功, 返回code: {} =====", code);
         return code;
     }
 }
