@@ -80,3 +80,6 @@ buildNumber.properties
 .classpath
 .settings
 .metadata
+
+# IDEA
+*.iml
