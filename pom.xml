@@ -10,7 +10,9 @@
   <version>1.0-SNAPSHOT</version>
   <modules>
     <module>springboot-jwt</module>
-      <module>sms-ali</module>
+    <module>sms-ali</module>
+    <module>struct-design-one</module>
+    <module>struct-design-one</module>
   </modules>
 
   <name>hilox-study-demo</name>
