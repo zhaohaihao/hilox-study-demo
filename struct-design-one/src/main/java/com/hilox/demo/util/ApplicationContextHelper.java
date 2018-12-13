@@ -6,7 +6,7 @@ import org.springframework.stereotype.Component;
 
 /**
  * 应用上下文辅助类
- * Created by zhh on 2018/12/11 0011.
+ * Created by Hilox on 2018/12/11 0011.
  */
 @Component
 public class ApplicationContextHelper implements ApplicationContextAware {

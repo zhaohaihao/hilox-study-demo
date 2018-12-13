@@ -2,7 +2,7 @@ package com.hilox.demo.constant;
 
 /**
  * 标记字段静态常量
- * Created by zhh on 2018/12/11 0011.
+ * Created by Hilox on 2018/12/11 0011.
  */
 public class GeometryTypeConstant {
 

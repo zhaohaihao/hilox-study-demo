@@ -6,7 +6,7 @@ import java.math.BigDecimal;
 
 /**
  * 几何图形条件
- * Created by zhh on 2018/12/11 0011.
+ * Created by Hilox on 2018/12/11 0011.
  */
 @Data
 public class GeometryCondition implements Serializable {

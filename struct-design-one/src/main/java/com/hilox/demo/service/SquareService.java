@@ -9,7 +9,7 @@ import java.math.BigDecimal;
 
 /**
  * 正方形Service
- * Created by zhh on 2018/12/11 0011.
+ * Created by Hilox on 2018/12/11 0011.
  */
 @Service
 public class SquareService extends GeometryAbstractService {

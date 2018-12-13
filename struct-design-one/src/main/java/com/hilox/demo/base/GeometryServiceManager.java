@@ -9,7 +9,7 @@ import java.util.concurrent.ConcurrentHashMap;
 
 /**
  * 几何图形Service服务管理类
- * Created by zhh on 2018/12/11 0011.
+ * Created by Hilox on 2018/12/11 0011.
  */
 @Service
 public class GeometryServiceManager {
