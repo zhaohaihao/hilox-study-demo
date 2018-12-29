@@ -13,6 +13,7 @@
     <module>sms-ali</module>
     <module>struct-design-one</module>
     <module>struct-design-one</module>
+      <module>phone-check</module>
   </modules>
 
   <name>hilox-study-demo</name>
