@@ -12,8 +12,8 @@
     <module>springboot-jwt</module>
     <module>sms-ali</module>
     <module>struct-design-one</module>
-    <module>struct-design-one</module>
-      <module>phone-check</module>
+    <module>phone-check</module>
+    <module>socket-demo</module>
   </modules>
 
   <name>hilox-study-demo</name>
